@@ -1,0 +1,2 @@
+This repository provides a code example of a Nextflow pipeline for analyzing transposon expression profiles based on bulk RNA-Seq datasets. The sequences are aligned to the T2T genome, and the pipeline runs within a Singularity container. The pipeline starts from BAM files downloaded from the GDC. The workflow includes steps such as sortBamByName, bam2Fastq, starAlignment, teCountProcess, and teLocalProcess. 
+
