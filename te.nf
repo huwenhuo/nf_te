@@ -1,5 +1,8 @@
 #!/usr/bin/env nextflow
 
+//orig run folder
+///research_jude/rgs01_jude/groups/jxugrp/home/common/Data_Public/TARGET_AML/run_200_299
+ 
 nextflow.enable.dsl=2
 
 Channel
